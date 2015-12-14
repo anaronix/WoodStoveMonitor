@@ -1,7 +1,7 @@
 void setup()
 {
 
-  /* my setup code here */
+  /* I should add my setup code here */
 
 }
 
